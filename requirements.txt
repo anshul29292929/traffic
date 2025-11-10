@@ -5,4 +5,3 @@ Pillow
 matplotlib
 numpy
 pandas
-cv2
